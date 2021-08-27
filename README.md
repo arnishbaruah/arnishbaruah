@@ -1,20 +1,20 @@
-# Arnish Baruah
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **HELLO WORLD !**<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+
+## Connect With Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+
+[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/arnish-baruah) &nbsp; [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/arnish_baruah) &nbsp;  [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:baruaharnish@gmail.com)
+
+
+## My Statistics
 
 <a href="https://github.com/arnishbaruah">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=arnishbaruah&show_icons=true&theme=algolia&line_height=27" alt="Arnish's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=arnishbaruah&show_icons=true&theme=algolia&line_height=27" alt="GITHUB STATS"/>
 </a>
 
-<br>
+&nbsp; 
 
-# Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
-
- [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/arnish-baruah)  [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/arnish_baruah)  [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:baruaharnish@gmail.com)
-
-<br>
-
-[![Arnishs wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arnish)](https://github.com/anuraghazra/github-readme-stats)
+[![WAKATIME STATS](https://github-readme-stats.vercel.app/api/wakatime?username=arnish&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 
 # My Tech Stack
