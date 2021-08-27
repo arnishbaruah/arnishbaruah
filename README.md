@@ -1,29 +1,18 @@
 # Arnish Baruah
+
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-
-
-
-
-
-<a href="https://github.com/arnishbaruah">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnishbaruah&layout=compact&theme=algolia&hide_langs_below=1" />
-</a>
 
 <a href="https://github.com/arnishbaruah">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arnishbaruah&show_icons=true&theme=algolia&line_height=27" alt="Arnish's github stats"/>
 </a>
 
-
 <br>
-
 
 # Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
-
-
  [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/arnish-baruah)  [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/arnish_baruah)  [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:baruaharnish@gmail.com)
 
-
+<br>
 
 # My Tech Stack
 
