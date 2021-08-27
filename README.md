@@ -9,8 +9,12 @@
 ## My Statistics
 
 <a href="https://github.com/arnishbaruah">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=arnishbaruah&show_icons=true&theme=algolia&line_height=27" alt="GITHUB STATS"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=arnishbaruah&count_private=true&show_icons=true&theme=algolia&line_height=27" alt="GITHUB STATS"/>
 </a>
+
+&nbsp; 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnishbaruah&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 &nbsp; 
 
