@@ -6,7 +6,7 @@
 
 
 <a href="https://github.com/arnishbaruah">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnishbaruah&theme=algolia&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnishbaruah&layout=compact&theme=algolia&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/arnishbaruah">
