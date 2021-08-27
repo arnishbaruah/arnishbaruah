@@ -14,7 +14,7 @@
 
 <br>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arnishbaruah)](https://github.com/anuraghazra/github-readme-stats)
+[![Arnishs wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arnish)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 
 # My Tech Stack
