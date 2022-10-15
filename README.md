@@ -13,7 +13,6 @@ I'm currently looking to contribute my skills to a team where I can prove my ski
 
 # 📊 GitHub Stats:
 <div align="center">
-<img height="200px" width="380px" src="https://github-readme-stats.vercel.app/api?username=arnishbaruah&show_icons=true&count_private=true&title_color=ff0087&bg_color=fafbfc00&text_color=a2a2a2"/>
- 
-<img height="200px" width="380px" src="https://github-readme-stats.vercel.app/api?username=arnishbaruah&theme=algolia&date_format=M%20j%5B%2C%20Y%5D&background=DDDDDD" />
+<img height="200px" width="380px" src="https://github-readme-stats.vercel.app/api?username=arnishbaruah&show_icons=true&count_private=true&theme=algolia"/>
+<img height="200px" width="380px" src="https://github-readme-stats.vercel.app/api?username=arnishbaruah&date_format=M%20j%5B%2C%20Y%5D&theme=algolia" />
  </div>
