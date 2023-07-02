@@ -1,8 +1,5 @@
 ## <img src="Hi.gif" width="29px"> HELLO WORLD ! <img src="Earth.gif" width="24px">
-Frontend Developer with experience building web apps and a knack for creating attractive UI.
-
-I'm obsessed with solving complex problems by building scalable web applications with great user experiences. 
-
+I solve complex problems by building scalable web applications with great user experiences. 
 I'm currently looking to contribute my skills to a team where I can prove my skills while growing in my capabilities. If you are looking for a competent, highly motivated developer, let's chat.
 
 
