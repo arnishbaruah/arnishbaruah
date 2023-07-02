@@ -1,6 +1,5 @@
 ## <img src="Hi.gif" width="29px"> HELLO WORLD ! <img src="Earth.gif" width="24px">
-I solve complex problems by building scalable web applications with great user experiences.
-I'm currently looking to contribute my skills to a team where I can prove my skills while growing in my capabilities. If you are looking for a competent, highly motivated developer, let's chat.
+I solve complex problems by building scalable web applications with great user experiences.   I'm currently looking to contribute my skills to a team where I can prove my skills while growing in my capabilities.   If you are looking for a competent, highly motivated developer, let's chat.
 
 
 ## 🌐 Socials:
